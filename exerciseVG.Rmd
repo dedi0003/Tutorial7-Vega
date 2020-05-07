@@ -14,7 +14,7 @@ header-includes:
 - \pretitle{\begin{center}
 \includegraphics[width=5in,height=13in]{figs/front.jpg}
 - \posttitle{\end{center}}
-- \usepackage{fontawesome}
+- \usepackage{fontawesome}w:
 - \usepackage[most]{tcolorbox}
 - \usepackage{xcolor}
 - \usepackage{sectsty}
@@ -23,4 +23,4 @@ header-includes:
 ---
 
 # Introduction
-This is only for trial purpose
+This is only for trial purpose. Please use wisely!
